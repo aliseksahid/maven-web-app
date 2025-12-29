@@ -110,7 +110,7 @@
 <body>
 
   <header>
-    <h1>🚀 SAHID IT Courses</h1>
+    <h1>MS IT Courses</h1>
     <p>Upgrade your career with our industry-ready training programs</p>
   </header>
 
