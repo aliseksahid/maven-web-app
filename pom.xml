@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>in.ashokit</groupId>
+    <groupId>in.sahid</groupId>
     <artifactId>maven-web-app</artifactId>
     <version>3.0-RELEASE</version>
     <packaging>war</packaging>
